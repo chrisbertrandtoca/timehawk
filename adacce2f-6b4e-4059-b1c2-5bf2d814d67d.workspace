@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-09T09:30:40Z",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+    "icon": "accessibility",
+    "accent": "#2e7258",
+    "route": "timehawk",
+    "description": "TimeHawk",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+    "resourceId": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+    "name": "TimeHawk"
+  }
+}
