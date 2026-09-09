@@ -101,6 +101,51 @@
         "status": 0,
         "breakPoint": "None",
         "datastoreReferences": []
+      },
+      {
+        "name": "Repeat",
+        "type": "Repeat",
+        "version": "1.0.4",
+        "originId": "06a0b7b6-0858-2ea6-7d57-81b356c5ddba",
+        "actionId": "5af085cd-3282-4e35-b2f7-9d4a66a3e3da",
+        "actionDefinitionActionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "counter",
+            "type": "Number",
+            "value": "5"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
       }
     ],
     "variableMappings": [],

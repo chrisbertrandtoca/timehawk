@@ -10,6 +10,11 @@
         "definitionId": "89d89be6-4d2c-44e0-8f63-e4ea5b53e3bf",
         "name": "C#",
         "version": "1.0.5"
+      },
+      {
+        "definitionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
+        "name": "Repeat",
+        "version": "1.0.4"
       }
     ],
     "componentDetails": [],
