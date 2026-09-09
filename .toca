@@ -1,4 +1,22 @@
 {
   "version": 1,
-  "workspaceId": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d"
+  "workspaceId": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+  "resources": [
+    {
+      "type": "GitWorkspaceResource",
+      "id": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+      "path": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d.workspace"
+    },
+    {
+      "type": "GitProjectResource",
+      "id": "d8de9fcc-5cd7-4d47-9f8c-c18af40b328d",
+      "path": "Project/d8de9fcc-5cd7-4d47-9f8c-c18af40b328d.project"
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "d257c023-f183-411b-bc12-dd91cfb5fbed",
+      "path": "Activity/d257c023-f183-411b-bc12-dd91cfb5fbed.activity"
+    }
+  ],
+  "environmentMappings": []
 }
