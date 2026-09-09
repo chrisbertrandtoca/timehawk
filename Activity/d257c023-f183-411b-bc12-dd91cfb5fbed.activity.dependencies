@@ -12,9 +12,9 @@
         "version": "1.0.5"
       },
       {
-        "definitionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
-        "name": "Repeat",
-        "version": "1.0.4"
+        "definitionId": "5b0b7b86-9dea-4bc6-acf5-73a4bd3a4aa4",
+        "name": "Random",
+        "version": "1.0.2"
       }
     ],
     "componentDetails": [],

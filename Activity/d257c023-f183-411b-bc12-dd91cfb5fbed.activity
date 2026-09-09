@@ -3,7 +3,7 @@
     "id": "d257c023-f183-411b-bc12-dd91cfb5fbed",
     "platformVersion": "10.0.0",
     "createdAt": "2026-09-09T09:34:17Z",
-    "createdBy": "dc8d33b8-9390-4a71-a3d4-05c15f955d6c",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -103,31 +103,26 @@
         "datastoreReferences": []
       },
       {
-        "name": "Repeat",
-        "type": "Repeat",
-        "version": "1.0.4",
-        "originId": "06a0b7b6-0858-2ea6-7d57-81b356c5ddba",
-        "actionId": "5af085cd-3282-4e35-b2f7-9d4a66a3e3da",
-        "actionDefinitionActionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
+        "name": "Random",
+        "type": "RandomFunction",
+        "version": "1.0.2",
+        "originId": "a384a4fd-353d-529b-4c97-c29fa01e10ab",
+        "actionId": "3a55b427-a52a-44ee-bf89-5d69a5a0f0ef",
+        "actionDefinitionActionId": "5b0b7b86-9dea-4bc6-acf5-73a4bd3a4aa4",
         "disabled": false,
         "created": "0001-01-01T00:00:00Z",
         "updated": "0001-01-01T00:00:00Z",
         "isDeactivated": false,
         "parameters": [
           {
-            "key": "counter",
+            "key": "startnum",
             "type": "Number",
-            "value": "5"
+            "value": "0"
           },
           {
-            "key": "timeout",
+            "key": "endnum",
             "type": "Number",
-            "value": "-1"
-          },
-          {
-            "key": "errorOnTimeout",
-            "type": "Boolean",
-            "value": "false"
+            "value": "1"
           },
           {
             "key": "failOnError",
