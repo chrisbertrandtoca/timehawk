@@ -15,6 +15,11 @@
         "definitionId": "5b0b7b86-9dea-4bc6-acf5-73a4bd3a4aa4",
         "name": "Random",
         "version": "1.0.2"
+      },
+      {
+        "definitionId": "ba230d09-8ca1-4f29-bd6e-6e6092e47101",
+        "name": "Python",
+        "version": "1.0.7"
       }
     ],
     "componentDetails": [],
