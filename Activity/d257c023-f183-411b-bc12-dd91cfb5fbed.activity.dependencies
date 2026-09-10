@@ -20,6 +20,11 @@
         "definitionId": "ba230d09-8ca1-4f29-bd6e-6e6092e47101",
         "name": "Python",
         "version": "1.0.7"
+      },
+      {
+        "definitionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "name": "Equation",
+        "version": "1.0.5"
       }
     ],
     "componentDetails": [],

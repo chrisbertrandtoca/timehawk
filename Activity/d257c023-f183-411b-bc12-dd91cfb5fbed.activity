@@ -196,6 +196,51 @@
         "status": 0,
         "breakPoint": "None",
         "datastoreReferences": []
+      },
+      {
+        "name": "Equation",
+        "type": "MathsFunction",
+        "version": "1.0.5",
+        "originId": "78c904a6-3974-60e4-6ba6-fbfdcb0a645e",
+        "actionId": "06f0c71a-13d1-49c7-800e-4c3ce2d39a92",
+        "actionDefinitionActionId": "87da816c-f552-4371-bc3e-6b2b7f55f2d6",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "equation",
+            "type": "String",
+            "value": "\u00221 \u002B 1\u0022"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
       }
     ],
     "variableMappings": [],
