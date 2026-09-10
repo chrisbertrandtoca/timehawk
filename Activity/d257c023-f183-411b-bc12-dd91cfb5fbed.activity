@@ -3,7 +3,7 @@
     "id": "d257c023-f183-411b-bc12-dd91cfb5fbed",
     "platformVersion": "10.0.0",
     "createdAt": "2026-09-09T09:34:17Z",
-    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "createdBy": "cb3e6503-0240-4df6-87d6-5afff481116d",
     "schemaVersion": "1.0.0"
   },
   "content": {
@@ -145,20 +145,15 @@
       {
         "name": "Python",
         "type": "ExecutePythonScript",
-        "version": "1.0.7",
+        "version": "1.0.6",
         "originId": "05e9d760-9a79-ffc2-1d88-b2b9e70fb918",
         "actionId": "23b3d7b3-4464-421a-95bc-fcba167f1379",
-        "actionDefinitionActionId": "ba230d09-8ca1-4f29-bd6e-6e6092e47101",
+        "actionDefinitionActionId": "269d731f-0848-4d97-adb7-c64ac01cad48",
         "disabled": false,
         "created": "0001-01-01T00:00:00Z",
         "updated": "0001-01-01T00:00:00Z",
         "isDeactivated": false,
         "parameters": [
-          {
-            "key": "command-chip",
-            "type": "Boolean",
-            "value": "false"
-          },
           {
             "key": "command",
             "type": "String",
@@ -223,6 +218,41 @@
             "key": "errorOnTimeout",
             "type": "Boolean",
             "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "originId": "2fbd031a-07d1-53c4-f318-3e30b9716f82",
+        "actionId": "487ffba1-f257-4ffb-8eb5-02064d69322a",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022aa\u0022"
           },
           {
             "key": "failOnError",
