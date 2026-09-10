@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "id": "a8c04c73-b184-4bed-820d-a4889f70c5d1",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-09-09T14:44:38Z",
+    "createdBy": "3b476bf3-0f2b-43c0-b7f2-4b8c7c8b2612",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "a8c04c73-b184-4bed-820d-a4889f70c5d1",
+    "description": "ds",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "a8c04c73-b184-4bed-820d-a4889f70c5d1",
+        "uuid": "01a086a0-c8b7-7760-b66b-b83f862af911",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "01a086a0-c8b7-7761-b7c2-b2598ecc57c7"
+      }
+    ],
+    "tables": [],
+    "tableMigrations": [],
+    "workspaceId": "adacce2f-6b4e-4059-b1c2-5bf2d814d67d",
+    "resourceId": "a8c04c73-b184-4bed-820d-a4889f70c5d1",
+    "name": "ds"
+  }
+}
